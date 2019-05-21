@@ -1,0 +1,244 @@
+Ryan~$ ls -al
+total 152
+drwxr-xr-x+  57 Ryan  staff   1824 Mar  7 18:16 .
+drwxr-xr-x    6 root  admin    192 Dec 22 16:57 ..
+-r--------    1 Ryan  staff      7 Jul 14  2018 .CFUserTextEncoding
+-rw-r--r--@   1 Ryan  staff  22532 Mar 10 20:19 .DS_Store
+drwxr-xr-x    3 Ryan  staff     96 Feb 17 15:49 .IdentityService
+drwx------    3 Ryan  staff     96 Feb 17 15:49 .ServiceHub
+drwx------   57 Ryan  staff   1824 Mar 10 20:19 .Trash
+drwxr-xr-x    4 Ryan  staff    128 Feb 17 15:49 .android
+drwxr-xr-x    3 Ryan  staff     96 Jan 31 10:14 .astropy
+-rw-r--r--@   1 Ryan  staff  15631 Mar  7 16:35 .bash_history
+-rw-r--r--@   1 Ryan  staff   1102 Feb 11 22:29 .bash_profile
+-rw-r--r--@   1 Ryan  staff    506 Feb 11 17:15 .bash_profile-anaconda3.bak
+drwx------   60 Ryan  staff   1920 Mar  7 16:35 .bash_sessions
+-rw-r--r--@   1 Ryan  staff    380 Mar  7 18:16 .bashrc
+drwxrw-r--    5 Ryan  staff    160 Feb 11 17:33 .conda
+-rw-r--r--    1 Ryan  staff     17 Feb 11 22:21 .condarc
+drwxr-xr-x    7 Ryan  staff    224 Feb 17 15:49 .config
+drwx------    3 Ryan  staff     96 Aug 21  2016 .cups
+drwxr-xr-x    6 Ryan  staff    192 Feb 12  2017 .eclipse
+drwxr-xr-x   15 Ryan  staff    480 Nov 27 19:39 .git
+-rw-r--r--    1 Ryan  staff     59 Nov 27 18:37 .gitconfig
+drwxr-xr-x    3 Ryan  staff     96 Feb  5  2018 .glide
+drwx------    6 Ryan  staff    192 Oct 16 13:30 .hashcat
+drwxr-xr-x    3 Ryan  staff     96 Feb 14 16:12 .ipython
+drwxr-xr-x    3 Ryan  staff     96 Feb 10  2018 .jssc
+drwxr-xr-x    3 Ryan  staff     96 Feb 17 15:49 .local
+drwxr-xr-x    4 Ryan  staff    128 Jan 31 10:15 .matplotlib
+drwxr-xr-x    3 Ryan  staff     96 Feb 17 15:40 .mono
+-rw-r--r--    1 Ryan  staff    313 Feb 17 15:46 .ms_openjdk_config
+drwxr-xr-x    6 Ryan  staff    192 Feb  6  2018 .oracle_jre_usage
+drwxr-xr-x    5 Ryan  staff    160 Mar 27  2018 .p2
+drwx------    3 Ryan  staff     96 Feb  5 19:56 .ssh
+drwxr-xr-x    6 Ryan  staff    192 Sep 14  2016 .subversion
+drwxr-xr-x    3 Ryan  staff     96 Sep 13 15:53 .swt
+drwxr-xr-x    3 Ryan  staff     96 Feb 17 16:06 .templateengine
+-rw-------    1 Ryan  staff   3555 Mar  7 18:16 .viminfo
+drwxr-xr-x    3 Ryan  staff     96 Feb 17 15:34 .vscode
+drwxr-xr-x    3 Ryan  staff     96 Feb 12 15:41 .zoomus
+drwx------    4 Ryan  staff    128 Dec 22 20:57 Applications
+drwx------+  33 Ryan  staff   1056 Mar  7 13:43 Desktop
+drwx------+ 158 Ryan  staff   5056 Mar  7 11:17 Documents
+drwx------+ 125 Ryan  staff   4000 Mar  7 13:04 Downloads
+drwxr-xr-x    6 Ryan  staff    192 Dec 22 20:57 IdeaProjects
+drwx------@  80 Ryan  staff   2560 Feb 17 16:07 Library
+drwx------+   8 Ryan  staff    256 May  7  2018 Movies
+drwx------+   6 Ryan  staff    192 Dec  3 21:32 Music
+drwxr-xr-x   10 Ryan  staff    320 Feb  8  2017 NetBeansProjects
+-rw-rw-r--    1 Ryan  staff    180 Feb 14 16:09 P1Morton.txt
+drwx------+   8 Ryan  staff    256 Feb  2 18:24 Pictures
+drwxr-xr-x+   5 Ryan  staff    160 Aug 12  2016 Public
+drwxr-xr-x    8 Ryan  staff    256 Jan  9 12:15 PycharmProjects
+drwxr-xr-x    8 Ryan  staff    256 Dec  2 13:25 VirtualBox VMs
+drwxr-xr-x   25 Ryan  staff    800 Feb 14 16:41 anaconda3
+drwxr-xr-x    2 Ryan  staff     64 Feb  5  2018 bin
+drwxr-xr-x    2 Ryan  staff     64 Feb  5  2018 pkg
+drwxr-xr-x    4 Ryan  staff    128 Dec 22 20:57 src
+drwxr-xr-x    6 Ryan  staff    192 Feb  5 12:16 venv
+
+
+Ryan~/Documents/Systems/P5/P5$ ./cmt /Users/Ryan
+
+---------------------------------------------------------------
+	Ryan Morton
+	CSCI 4547
+	Sun Mar 10 2019	20:33:20
+---------------------------------------------------------------
+Applications
+Desktop
+Documents
+Downloads
+IdeaProjects
+Library
+Movies
+Music
+NetBeansProjects
+P1Morton.txt
+Pictures
+Public
+PycharmProjects
+VirtualBox VMs
+anaconda3
+bin
+pkg
+src
+venv
+
+---------------------------------------------------------------
+Normal termination.
+
+Ryan~/Documents/Systems/P5/P5$ ./cmt -v  /Users/Ryan
+
+---------------------------------------------------------------
+	Ryan Morton
+	CSCI 4547
+	Sun Mar 10 2019	20:34:00
+---------------------------------------------------------------
+/Users/RyanApplications
+/Users/RyanDesktop
+/Users/RyanDocuments
+/Users/RyanDownloads
+/Users/RyanIdeaProjects
+/Users/RyanLibrary
+/Users/RyanMovies
+/Users/RyanMusic
+/Users/RyanNetBeansProjects
+/Users/RyanP1Morton.txt
+/Users/RyanPictures
+/Users/RyanPublic
+/Users/RyanPycharmProjects
+/Users/RyanVirtualBox VMs
+/Users/Ryananaconda3
+/Users/Ryanbin
+/Users/Ryanpkg
+/Users/Ryansrc
+/Users/Ryanvenv
+
+---------------------------------------------------------------
+Normal termination.
+
+Ryan~/Documents/Systems/P5/P5$ ./cmt -a  /Users/Ryan
+
+---------------------------------------------------------------
+	Ryan Morton
+	CSCI 4547
+	Sun Mar 10 2019	20:34:34
+---------------------------------------------------------------
+.
+..
+.CFUserTextEncoding
+.DS_Store
+.IdentityService
+.ServiceHub
+.Trash
+.android
+.astropy
+.bash_history
+.bash_profile
+.bash_profile-anaconda3.bak
+.bash_sessions
+.bashrc
+.conda
+.condarc
+.config
+.cups
+.eclipse
+.git
+.gitconfig
+.glide
+.hashcat
+.ipython
+.jssc
+.local
+.matplotlib
+.mono
+.ms_openjdk_config
+.oracle_jre_usage
+.p2
+.ssh
+.subversion
+.swt
+.templateengine
+.viminfo
+.vscode
+.zoomus
+Applications
+Desktop
+Documents
+Downloads
+IdeaProjects
+Library
+Movies
+Music
+NetBeansProjects
+P1Morton.txt
+Pictures
+Public
+PycharmProjects
+VirtualBox VMs
+anaconda3
+bin
+pkg
+src
+venv
+
+---------------------------------------------------------------
+Normal termination.
+
+
+Ryan~/Documents/Systems/P5/P5$ ./cmt --Help
+
+---------------------------------------------------------------
+	Ryan Morton
+	CSCI 4547
+	Sun Mar 10 2019	20:37:08
+---------------------------------------------------------------
+Usage:  options [-aovr] [--recursive] [--verbose] 
+		 [--out filename] 
+Not a Directory
+
+Ryan~/Documents/Systems/P5/P5$ ./cmt /Users/Ryan -o output.txt
+
+---------------------------------------------------------------
+	Ryan Morton
+	CSCI 4547
+	Sun Mar 10 2019	20:37:51
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Normal termination.
+
+Ryan~/Documents/Systems/P5/P5$ ./cmt -t  /Users/Ryan
+
+---------------------------------------------------------------
+	Ryan Morton
+	CSCI 4547
+	Sun Mar 10 2019	20:38:16
+---------------------------------------------------------------
+Usage:  options [-aovr] [--recursive] [--verbose] 
+		 [--out filename] 
+Applications
+Desktop
+Documents
+Downloads
+IdeaProjects
+Library
+Movies
+Music
+NetBeansProjects
+P1Morton.txt
+Pictures
+Public
+PycharmProjects
+VirtualBox VMs
+anaconda3
+bin
+pkg
+src
+venv
+
+---------------------------------------------------------------
+Normal termination.
+
